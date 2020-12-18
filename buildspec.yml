@@ -8,8 +8,8 @@ phases:
       - dotnet restore Libraries/Nop.Core/Nop.Core.csproj
       - dotnet restore Libraries/Nop.Data/Nop.Data.csproj
       - dotnet restore Libraries/Nop.Services/Nop.Services.csproj
-      - dotnet restore Presentation/Nop.Web.Framework.csproj
-      - dotnet restore Presentation/Nop.Web.csproj
+      - dotnet restore Presentation/Nop.Web.Framework/Nop.Web.Framework.csproj
+      - dotnet restore Presentation/Nop.Web/Nop.Web.csproj
   build:
     commands:
       - dotnet publish -c release -o ./build_output Libraries/Nop.Core/Nop.Core.csproj
