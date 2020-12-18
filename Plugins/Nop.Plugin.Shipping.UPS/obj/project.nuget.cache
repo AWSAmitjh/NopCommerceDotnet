@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mOolj9WdX+XnbtDncYz1JncP9PV3kSRdJtNZOKh4Dku/tAFa38Tc7+0mVvTMvBXBbwIidVfU57hIMuff3yAV3w==",
+  "dgSpecHash": "MOD9kuqS++r9J9q7/x2ug5ZNPYD+yF8mDhhgZH9MqPonsBxjFk/Ms5toIR6EI9jg+YHGP5TvEa7DvQmNv9tDsQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\amitjh\\source\\repos\\AWSAmitjh\\NopCommerceDotnet\\Plugins\\Nop.Plugin.Shipping.UPS\\Nop.Plugin.Shipping.UPS.csproj",
+  "projectFilePath": "C:\\Users\\amitjh\\Source\\Repos\\AWSAmitjh\\NopCommerceDotnet\\Plugins\\Nop.Plugin.Shipping.UPS\\Nop.Plugin.Shipping.UPS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\amitjh\\.nuget\\packages\\advancedstringbuilder\\0.1.0\\advancedstringbuilder.0.1.0.nupkg.sha512",
     "C:\\Users\\amitjh\\.nuget\\packages\\autofac\\6.0.0\\autofac.6.0.0.nupkg.sha512",

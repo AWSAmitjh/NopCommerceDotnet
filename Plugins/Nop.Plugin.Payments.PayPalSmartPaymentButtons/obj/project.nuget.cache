@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SXpKRgzmx+dqBpIw0aP5uwrLjIJQeh7rZipKSSCK/iwL5CRP2hy4jo6Mwp9xVDm7vcAhC2+2y+oRw9VOpxxYUg==",
+  "dgSpecHash": "Ze2vTO6MHnuvTc6DwI56ESXSgmWQ8w9uWMy6cajEw9GEELaMNFgwpdT1i3DBMzXznzSOruC9PFONw553nXzxpA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\amitjh\\source\\repos\\AWSAmitjh\\NopCommerceDotnet\\Plugins\\Nop.Plugin.Payments.PayPalSmartPaymentButtons\\Nop.Plugin.Payments.PayPalSmartPaymentButtons.csproj",
+  "projectFilePath": "C:\\Users\\amitjh\\Source\\Repos\\AWSAmitjh\\NopCommerceDotnet\\Plugins\\Nop.Plugin.Payments.PayPalSmartPaymentButtons\\Nop.Plugin.Payments.PayPalSmartPaymentButtons.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\amitjh\\.nuget\\packages\\advancedstringbuilder\\0.1.0\\advancedstringbuilder.0.1.0.nupkg.sha512",
     "C:\\Users\\amitjh\\.nuget\\packages\\autofac\\6.0.0\\autofac.6.0.0.nupkg.sha512",

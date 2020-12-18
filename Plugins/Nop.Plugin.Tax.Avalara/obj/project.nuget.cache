@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Z59tTL4+bh+p/WAAGnCp4/SOIGQCcdDOmMCAfl7wE3FUxa5hrykmrvw5sBfsaPf+Vxk+MmP3oRN05mk7YDg3cA==",
+  "dgSpecHash": "CfAuQ4KIiA31ZPWj2I9yOgpfKyq5mT4QagKCL2Y/03HSINooRHFVi2StS7BZVqGB8Eu5tvETId4jh6kwk/Ioog==",
   "success": true,
-  "projectFilePath": "C:\\Users\\amitjh\\source\\repos\\AWSAmitjh\\NopCommerceDotnet\\Plugins\\Nop.Plugin.Tax.Avalara\\Nop.Plugin.Tax.Avalara.csproj",
+  "projectFilePath": "C:\\Users\\amitjh\\Source\\Repos\\AWSAmitjh\\NopCommerceDotnet\\Plugins\\Nop.Plugin.Tax.Avalara\\Nop.Plugin.Tax.Avalara.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\amitjh\\.nuget\\packages\\advancedstringbuilder\\0.1.0\\advancedstringbuilder.0.1.0.nupkg.sha512",
     "C:\\Users\\amitjh\\.nuget\\packages\\autofac\\6.0.0\\autofac.6.0.0.nupkg.sha512",

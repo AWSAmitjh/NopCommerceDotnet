@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "U5XKI7o4NTaOGRfWz+/yqTlhaqz3m1i8jeIdMbPQpKu1FjF4y88sJh9zJrvZvc5p38mSKV1taFFMEPNSju5aWg==",
+  "dgSpecHash": "Qj/Fo3bm3yWSE1wBB66DE/aIVwvA6V0cdHh0f3noy/Ft0l+WWGzvkUkF/+yDv23bJXaBQDLNpNsoVezLOp3hcw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\amitjh\\source\\repos\\AWSAmitjh\\NopCommerceDotnet\\Plugins\\Nop.Plugin.MultiFactorAuth.GoogleAuthenticator\\Nop.Plugin.MultiFactorAuth.GoogleAuthenticator.csproj",
+  "projectFilePath": "C:\\Users\\amitjh\\Source\\Repos\\AWSAmitjh\\NopCommerceDotnet\\Plugins\\Nop.Plugin.MultiFactorAuth.GoogleAuthenticator\\Nop.Plugin.MultiFactorAuth.GoogleAuthenticator.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\amitjh\\.nuget\\packages\\advancedstringbuilder\\0.1.0\\advancedstringbuilder.0.1.0.nupkg.sha512",
     "C:\\Users\\amitjh\\.nuget\\packages\\autofac\\6.0.0\\autofac.6.0.0.nupkg.sha512",
