@@ -24,6 +24,8 @@
     ".NETCoreApp,Version=v3.1": {
       "Nop.Plugin.Misc.SendinBlue/1.0.0": {
         "dependencies": {
+          "Nop.Core": "4.4.0",
+          "Nop.Services": "4.4.0",
           "Nop.Web.Framework": "4.4.0",
           "SendinBlue.ClientV3.45": "1.0.0.0",
           "SendinBlueMarketingAutomation": "1.0.0.0",

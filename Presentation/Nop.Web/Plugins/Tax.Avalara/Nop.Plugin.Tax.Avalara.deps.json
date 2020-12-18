@@ -25,7 +25,10 @@
       "Nop.Plugin.Tax.Avalara/1.0.0": {
         "dependencies": {
           "Avalara.AvaTax": "20.9.0",
+          "Nop.Core": "4.4.0",
+          "Nop.Services": "4.4.0",
           "Nop.Web": "4.4.0",
+          "Nop.Web.Framework": "4.4.0",
           "Microsoft.AspNetCore.Antiforgery": "3.1.0.0",
           "Microsoft.AspNetCore.Authentication.Abstractions": "3.1.0.0",
           "Microsoft.AspNetCore.Authentication.Cookies": "3.1.0.0",
@@ -3682,7 +3685,6 @@
       "Nop.Web/4.4.0": {
         "dependencies": {
           "Nop.Core": "4.4.0",
-          "Nop.Data": "4.4.0",
           "Nop.Services": "4.4.0",
           "Nop.Web.Framework": "4.4.0"
         },

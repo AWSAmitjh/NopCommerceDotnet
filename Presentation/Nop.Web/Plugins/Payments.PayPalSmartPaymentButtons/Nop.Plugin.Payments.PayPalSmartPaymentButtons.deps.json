@@ -24,7 +24,10 @@
     ".NETCoreApp,Version=v3.1": {
       "Nop.Plugin.Payments.PayPalSmartPaymentButtons/1.0.0": {
         "dependencies": {
+          "Nop.Core": "4.4.0",
+          "Nop.Services": "4.4.0",
           "Nop.Web": "4.4.0",
+          "Nop.Web.Framework": "4.4.0",
           "PayPal": "2.0.0-rc2",
           "PayPalCheckoutSdk": "1.0.3",
           "PayPalHttp": "1.0.0",
@@ -3715,7 +3718,6 @@
       "Nop.Web/4.4.0": {
         "dependencies": {
           "Nop.Core": "4.4.0",
-          "Nop.Data": "4.4.0",
           "Nop.Services": "4.4.0",
           "Nop.Web.Framework": "4.4.0"
         },

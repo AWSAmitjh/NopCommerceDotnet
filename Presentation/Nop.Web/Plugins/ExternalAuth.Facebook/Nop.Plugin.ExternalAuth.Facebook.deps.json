@@ -25,7 +25,9 @@
       "Nop.Plugin.ExternalAuth.Facebook/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.Authentication.Facebook": "3.1.8",
-          "Nop.Web.Framework": "4.4.0",
+          "Nop.Core": "4.4.0",
+          "Nop.Services": "4.4.0",
+          "Nop.Web": "4.4.0",
           "Microsoft.AspNetCore.Antiforgery": "3.1.0.0",
           "Microsoft.AspNetCore.Authentication.Abstractions": "3.1.0.0",
           "Microsoft.AspNetCore.Authentication.Cookies": "3.1.0.0",
@@ -3674,6 +3676,19 @@
           "Nop.Services.dll": {}
         }
       },
+      "Nop.Web/4.4.0": {
+        "dependencies": {
+          "Nop.Core": "4.4.0",
+          "Nop.Services": "4.4.0",
+          "Nop.Web.Framework": "4.4.0"
+        },
+        "runtime": {
+          "Nop.Web.dll": {}
+        },
+        "compile": {
+          "Nop.Web.dll": {}
+        }
+      },
       "Nop.Web.Framework/4.4.0": {
         "dependencies": {
           "BundlerMinifier.Core": "3.2.449",
@@ -7269,6 +7284,11 @@
       "sha512": ""
     },
     "Nop.Services/4.4.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Nop.Web/4.4.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
